@@ -1,0 +1,92 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/cores/maple"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/variants/generic_stm32f103c"
+  },
+  {
+    "Sourcefile": "/home/fx/Upwork/weather-node/output/sketch/weatherSIM808.ino.cpp",
+    "Include": "MapleFreeRTOS821.h",
+    "Includepath": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821"
+  },
+  {
+    "Sourcefile": "/home/fx/Upwork/weather-node/output/sketch/weatherSIM808.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "/home/fx/Arduino/libraries/DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "/home/fx/Upwork/weather-node/output/sketch/weatherSIM808.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/MapleFreeRTOS821.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/croutine.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/event_groups.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/heap_1.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/list.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/port.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/queue.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/tasks.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/.arduino15/packages/stm32duino/hardware/STM32F1/2021.2.9/libraries/FreeRTOS821/utility/timers.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/Arduino/libraries/DHT_sensor_library/DHT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "/home/fx/Arduino/libraries/Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "/home/fx/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/fx/Arduino/libraries/Adafruit_Unified_Sensor/Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
